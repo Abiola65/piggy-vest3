@@ -1,0 +1,67 @@
+ body{
+    font-family: Jakarta, sans-serif;
+    background-color: #f2f7f8;
+  }
+
+h1{
+    font-size: 30px;
+    text-align:center;
+}
+
+.text-image{
+    display: flex;
+    list-style: none;
+    margin-left: 100px;
+}
+
+.text-image img{
+    width: 50px;
+}
+.seventh-section{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 150px;
+}
+
+.tst{
+    margin-right: 150px;
+    font-size: 15px;
+    list-style-type: none;
+    gap: 1rem;
+}
+.tst-2{
+    margin-left: 2px;
+}
+
+.icons{
+    font-size: 12.82px;
+}
+
+.p1{
+    font-size: 20px;
+}
+
+.P{
+    
+    margin: left;
+}
+
+.images{
+    margin-bottom: 70px;
+}
+
+.section-6{
+    margin-left: 250px;
+    margin-top: 9%;
+    font-size:15px;
+}
+.section-7{
+    margin-left: 250px;
+    margin-top: 9%;
+    font-size:15px;
+}
+
+.P{
+    gap: 3rem;
+    justify-content: space-between;
+}
